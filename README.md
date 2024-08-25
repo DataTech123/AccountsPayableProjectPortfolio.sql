@@ -1,4 +1,4 @@
-Assume  this project often occur in large accounting financial work team, request from stakeholder (manager or director) for one-month vendor account balance summary report for finding which vendor account is paid and unpaid.
+Assume this project often occur in large accounting financial databases, likely request from stakeholder (manager or director) in one-month vendor account balance summary report for finding payment status to which vendor account is paid and unpaid.
 
 This project with my own simple database design focuses on  resolving payment transaction issues and enabling the tracking of each transaction within individual vendor accounts. 
 This project is particularly useful for large ERP accounting organizations, where may be restricted access to a certain area. 
