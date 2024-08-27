@@ -8,8 +8,8 @@ The solution of this project aims to support accounting and finance operations i
 
 Accounting System Information Explanation:
 In an ERP accounting system, which typically uses Oracle or IBM databases.
-Indeed, connect directly to the target working system or ETL data tools for extraction, transformation, load for SQL server instance.
-For in-depth analysis with SSAS, SSRS, determining that the working system in what specific problem to utilize tool and software. 
-It can use such as Java, Visual Studio, Python for financial databases.
+Indeed, directly connect to the target working system or ETL data tools for extraction, transformation, load in a specific SQL server instance.
+For in-depth analysis with SSAS and SSRS, determine the specific problems in the working system, subject to utilizing the appropriate tools and software.
+It can still use other software and tools, such as Java, Visual Studio, Python, and so on, for financial databases.
 
 Thank you so much for your review and welcome any questions for further development.
