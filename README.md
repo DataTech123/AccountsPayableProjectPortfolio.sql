@@ -12,4 +12,4 @@ Indeed, connect directly to the target working system or ETL data tools for extr
 For in-depth analysis with SSAS, SSRS, determining that the working system in what specific problem to utilize tool and software. 
 It can use such as Java, Visual Studio, Python for financial databases.
 
-Thank you so much for your review and welcome your questions for further development.
+Thank you so much for your review and welcome any questions for further development.
