@@ -1,15 +1,7 @@
-Assume this project often occur in large accounting financial databases, likely request from stakeholder (manager or director) in one-month vendor account balance summary report for finding payment status to which vendor account is paid and unpaid.
+This project uses Microsoft SQL Server Management Studio (SSMS) to self-design a relational database (DML & DDL theory) that focuses on tracking accounts payable's one-month summary of vendor payment statuses, including paid and unpaid. The solution of this project aims to support accounting and finance operations in usual challenges related to vendor account management.
 
-This project with my own simple database design focuses on  resolving payment transaction issues and enabling the tracking of each transaction within individual vendor accounts. 
-This project is particularly useful for large ERP accounting organizations, where may be restricted access to a certain area. 
-The solution of this project aims to support accounting and finance operations in usual challenges related to vendor account management.
+In a particular scenario, an ERP accounting system in the city's department incurs a large dataset across departments and restrictions to access every function in the systems. This project could be useful for retrieving data sources from the working databases, as it is often requested by stakeholders (such as manager or director) to find the payment status of a specific vendor account.
 
-
-
-Accounting System Information Explanation:
-In an ERP accounting system, which typically uses Oracle or IBM databases.
-Indeed, directly connect to the target working system or ETL data tools for extraction, transformation, load in a specific SQL server instance.
-For in-depth analysis with SSAS and SSRS, determine the specific problems in the working system, subject to utilizing the appropriate tools and software.
-It can still use other software and tools, such as Java, Visual Studio, Python, and so on, for financial databases.
-
-Thank you so much for your review and welcome any questions for further development.
+Design Database Explanations: While working with an ERP accounting system, for which it does not need to design a database, it just needs to connect between an ERP accounting system and SQL software (Oracle SQL or Microsoft SQL), in the Department of City of Seattle, for which typically uses Oracle Suite and its database.
+ 
+Thank you so much for your review, and I welcome any questions for further development.
