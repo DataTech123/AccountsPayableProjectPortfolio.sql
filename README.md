@@ -2,6 +2,6 @@ This project uses Microsoft SQL Server Management Studio (SSMS) to self-design a
 
 In a particular case, an ERP accounting system in the city's department incurs a large dataset across departments and restrictions to access every function in the systems. This project could be useful for retrieving data sources from the working databases, as it is often requested by stakeholders (such as manager or director) to find the payment status of a specific vendor account.
 
-Design Database Explanations: While working with an ERP accounting system, for which it does not need to design a database, it just needs to connect between an ERP accounting system and SQL software(Oracle SQL or Microsoft SQL)in the Department of City of Seattle.It typically uses Oracle Suite and its database.
+Design Database Explanation: While working with an ERP accounting system, for which it does not need to design a database, it just needs to connect between an ERP accounting system and SQL software(Oracle SQL or Microsoft SQL)in the Department of City of Seattle.It typically uses Oracle Suite and its database.
  
 Thank you so much for your review, and I welcome any questions for further development.
