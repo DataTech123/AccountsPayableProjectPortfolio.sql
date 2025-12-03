@@ -1,7 +1,7 @@
 This project uses Microsoft SQL Server Management Studio (SSMS) to self-design a relational database (DML & DDL theory) that focuses on tracking accounts payable's one-month summary of vendor payment statuses, including paid and unpaid. The solution of this project aims to support accounting and finance operations in usual challenges related to vendor account management.
 
-In a particular case, an ERP accounting system in the city's department incurs a large dataset across departments and restrictions to access every function in the systems. This project could be useful for retrieving data sources from the working databases, as it is often requested by stakeholders (such as manager or director) to find the payment status of a specific vendor account.
+In a particular case, an ERP accounting system connects all departments with a large dataset in databases, which have restrictions to access every function in each department's system. This project could be useful for retrieving data sources from the working databases, as it is often requested by stakeholders,including Manager or Director to ask for the payment status of a specific vendor account.
 
-Design Database Explanation: While working with an ERP accounting system, for which it does not need to design a database, it just needs to connect between an ERP accounting system and SQL software(Oracle SQL or Microsoft SQL)in the Department of City of Seattle.It typically uses Oracle Suite and its database.
+Design Database Explanation: When working with an ERP accounting system, you do not need to design a new database; you only need to connect the ERP accounting system to SQL software (such as Oracle Database or Microsoft SQL Server), depending on each company's system configuration.
  
-Thank you so much for your review, and I welcome any questions for further development.
+Thank you so much for your review and question.
