@@ -4,4 +4,4 @@ In a particular case, an ERP accounting system connects all departments with a l
 
 Design Database Explanation: When working with an ERP accounting system, it is unnessary to design a new database; it just needs to connect the ERP accounting system to SQL software (such as Oracle Database or Microsoft SQL Server), depending on each company's system configuration.
  
-Thank you so much for your review and question.
+Thank you so much for review and question.
